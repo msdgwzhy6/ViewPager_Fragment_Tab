@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\workspace\view\ViewPagerDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2700a31cc07708acd009252418c04c005de4de6b">
+        <dex dex="D:\workspace\view\ViewPagerDemo\app\build\intermediates\pre-dexed\debug\instant-run_464b9ccac2bd3f63e2ccda85ffe033a22ca4ac3a.jar" />
+    </item>
+    <item
+        jar="D:\workspace\view\ViewPagerDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b41de3f27d155a5d82f08ff59b08fb5b4245e83d">
+        <dex dex="D:\workspace\view\ViewPagerDemo\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b16a79bc69f34959626d2531700b169544cd8e40.jar" />
+    </item>
+    <item
+        jar="D:\Java\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\workspace\view\ViewPagerDemo\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_84ad811d666c62509f9e29e7525516134c800379.jar" />
+    </item>
+
+</items>

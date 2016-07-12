@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_top_tab.xml",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\layout\\activity_main_top_tab.xml"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_contacts.xml",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\layout\\activity_tab_contacts.xml"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_chat.xml",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\layout\\activity_tab_chat.xml"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tab_friend.xml",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\layout\\activity_tab_friend.xml"
+    }
+]

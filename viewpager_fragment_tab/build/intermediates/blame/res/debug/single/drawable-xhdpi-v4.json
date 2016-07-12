@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_guide_round_disabled.9.png",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\drawable-xhdpi\\tab_guide_round_disabled.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_guide_round_enabled.9.png",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\drawable-xhdpi\\tab_guide_round_enabled.9.png"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\tab_selected_pressed_holo.9.png",
+        "source": "D:\\workspace\\github\\ViewPager_Fragment_Tab\\viewpager_fragment_tab\\src\\main\\res\\drawable-xhdpi\\tab_selected_pressed_holo.9.png"
+    }
+]

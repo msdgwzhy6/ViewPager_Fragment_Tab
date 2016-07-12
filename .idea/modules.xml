@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ViewPager_Fragment_Tab.iml" filepath="$PROJECT_DIR$/ViewPager_Fragment_Tab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager_fragment_tab/viewpager_fragment_tab.iml" filepath="$PROJECT_DIR$/viewpager_fragment_tab/viewpager_fragment_tab.iml" />
+    </modules>
+  </component>
+</project>
